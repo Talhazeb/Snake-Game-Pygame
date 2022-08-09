@@ -1,0 +1,9 @@
+{
+    "scale" :15,
+    "initial_snake_size" : 5,
+    "fruit_color" : [123, 213, 132],
+    "snake_color" : [255, 255, 255],
+    "frame_rate" : 15,
+    "screen_size" : 500,
+    "collide_on_walls" : false
+}
